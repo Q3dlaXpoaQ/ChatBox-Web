@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkxyz_chatboxapp_ce=self.webpackChunkxyz_chatboxapp_ce||[]).push([[7941],{27941:(s,e,n)=>{n.r(e),n.d(e,{Browser:()=>l,BrowserWeb:()=>t});var o=n(16546);class t extends o.E_{constructor(){super(),this._lastWindow=null}async open(s){this._lastWindow=window.open(s.url,s.windowName||"_blank")}async close(){return new Promise(((s,e)=>{null!=this._lastWindow?(this._lastWindow.close(),this._lastWindow=null,s()):e("No active window to close!")}))}}const l=new t}}]);
+//# sourceMappingURL=7941.00af370de0da65c7bd75.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkxyz_chatboxapp_ce=self.webpackChunkxyz_chatboxapp_ce||[]).push([[8088],{28088:(e,t,a)=>{a.r(t),a.d(t,{SafeAreaWeb:()=>r});var s=a(16546);class r extends s.E_{async getSafeAreaInsets(){return{insets:{top:0,left:0,right:0,bottom:0}}}async getStatusBarHeight(){return{statusBarHeight:0}}setImmersiveNavigationBar(){throw this.unimplemented("Method not supported on Web.")}}}}]);
+//# sourceMappingURL=8088.b529d0830cc5e5d78f34.js.map

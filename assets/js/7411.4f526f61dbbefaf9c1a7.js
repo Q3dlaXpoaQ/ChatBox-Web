@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkxyz_chatboxapp_ce=self.webpackChunkxyz_chatboxapp_ce||[]).push([[7411],{7411:(e,s,a)=>{a.r(s),a.d(s,{SplashScreenWeb:()=>h});var c=a(16546);class h extends c.E_{async show(e){}async hide(e){}}}}]);
+//# sourceMappingURL=7411.4f526f61dbbefaf9c1a7.js.map

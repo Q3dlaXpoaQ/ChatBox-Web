@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkxyz_chatboxapp_ce=self.webpackChunkxyz_chatboxapp_ce||[]).push([[5911],{25911:(e,s,c)=>{c.r(s),c.d(s,{Browser:()=>r});const r=(0,c(16546).F3)("Browser",{web:()=>c.e(7941).then(c.bind(c,27941)).then((e=>new e.BrowserWeb))})}}]);
+//# sourceMappingURL=5911.2af0cffcdeed07b971c6.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkxyz_chatboxapp_ce=self.webpackChunkxyz_chatboxapp_ce||[]).push([[2060],{72060:(e,t,n)=>{n.r(t),n.d(t,{StreamHttpWeb:()=>r});var a=n(16546);class r extends a.E_{async startStream(e){throw console.warn("StreamHttp plugin is not implemented on web"),new Error("StreamHttp plugin is not implemented on web")}async cancelStream(e){throw console.warn("StreamHttp plugin is not implemented on web"),new Error("StreamHttp plugin is not implemented on web")}}}}]);
+//# sourceMappingURL=2060.ab47c35eed6a838ea1ea.js.map
